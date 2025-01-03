@@ -1,4 +1,5 @@
 Telegram bot:
+*Create virtual enviroment*
 ```
 python -m venv venv
 ```
@@ -8,6 +9,7 @@ venv\Scripts\activate
 Add env data
 
 Django:
+*Create virtual enviroment*
 ```
 python -m venv venv
 ```
